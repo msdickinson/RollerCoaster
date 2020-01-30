@@ -10,7 +10,7 @@ New Version (Everything linked below work in progress)
 
 <h2>Overview</h2>
 
-![Alt text](https://raw.githubusercontent.com/msdickinson/DickinsonBros/master/Stack.png)
+![Alt text](https://raw.githubusercontent.com/msdickinson/RollerCoaster/master/DickinsonBros.png)
 
 <br/>
 
