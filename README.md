@@ -9,7 +9,6 @@ New Version (Everything linked below work in progress)
 <br/>
 
 
-
 <h2>Overview</h2>
 
 ![Alt text](https://raw.githubusercontent.com/msdickinson/RollerCoaster/master/DickinsonBros.png)
@@ -64,11 +63,7 @@ New Version (Everything linked below work in progress)
     DickinsonBros
 </a> is a set of nuget packages to handle cross cutting concerns used in mutiple projects.
 Abstaction Packages have been added to reduce coupling between packages.
-
-<a href="https://github.com/msdickinson/DickinsonBros">
-    DickinsonBros
-</a>
-
+<br/>
 
 ![Alt text](https://raw.githubusercontent.com/msdickinson/DickinsonBros/master/Stack.png)
 
