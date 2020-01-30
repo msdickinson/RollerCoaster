@@ -69,6 +69,7 @@ New Version (Everything linked below work in progress)
 </a> is a set of nuget packages to handle cross cutting concerns used in mutiple projects.
 Abstaction Packages have been added to reduce coupling between packages.
 <br/>
+<br/>
 
 <a href="https://github.com/msdickinson/DickinsonBros.DateTime">
     DateTime – Ability to unit test
