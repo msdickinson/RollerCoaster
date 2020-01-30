@@ -62,6 +62,8 @@ New Version (Everything linked below work in progress)
 
 ![Alt text](https://raw.githubusercontent.com/msdickinson/DickinsonBros/master/Stack.png)
 
+<br/>
+
 <a href="https://github.com/msdickinson/DickinsonBros">
     DickinsonBros
 </a> is a set of nuget packages to handle cross cutting concerns used in mutiple projects.
