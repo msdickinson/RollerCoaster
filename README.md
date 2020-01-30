@@ -1,7 +1,8 @@
 <h2>About</h2>
-Create and ride a roller coaster
+Create and ride a roller coaster. Work in Progress
+https://www.marksdickinson.com/posts/roller-coaster-overview-part-1.html
 
-Old Version - http://rollercoaster.dickinsonbros.com/
+http://rollercoaster.dickinsonbros.com/ (Old Version)
 
 ![Alt text](https://raw.githubusercontent.com/msdickinson/RollerCoaster/master/Tracks.png)
 
