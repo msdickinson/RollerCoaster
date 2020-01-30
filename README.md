@@ -3,6 +3,8 @@ Create and ride a roller coaster
 
 Old Version - http://rollercoaster.dickinsonbros.com/
 
+![Alt text](https://raw.githubusercontent.com/msdickinson/RollerCoaster/master/Tracks.png)
+
 New Version (Everything linked below work in progress)
 <br/>
 
