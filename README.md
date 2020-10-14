@@ -5,12 +5,6 @@ Create and ride a roller coaster
 
 <br/>
 
-DickinsonBros Packages
-
-
-
-Utilizes [DickinsonBros Stack](https://github.com/msdickinson/DickinsonBros)
-
 <h2>Websites</h2>
 
 | Project  | Build | Coverage | Release | Development URL | Production URL |
