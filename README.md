@@ -15,15 +15,15 @@ Create and ride a roller coaster
 
 | Project  | Build | Coverage | Release | Postman | Development URL | Production URL |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
-| [Account API](https://github.com/msdickinson/DickinsonBros.Encryption.AES) |  |  |  |  |  |  |
-| [Coaster API](https://github.com/msdickinson/DickinsonBros.DataTable)   |  |  |  |  |  |  |  |
-| [IntegreationTests API](https://github.com/msdickinson/RollerCoaster.swaggerGame)   |  |  |  |  |   |   |
+| [Account API](https://github.com/msdickinson/RollerCoaster.Account.API) |  |  |  |  |  |  |
+| [Coaster API](https://github.com/msdickinson/RollerCoaster.Coaster.API)   |  |  |  |  |  |  |  |
+| [IntegreationTests API](https://github.com/msdickinson/RollerCoaster.IntegrationTests.API)   |  |  |  |  |   |   |
 
 <h2>Database</h2>
 
 | Schemas |
 | ------------- |
-| [SQL](https://github.com/msdickinson/RollerCoaster.Game) |
+| [SQL](https://github.com/msdickinson/RollerCoaster.SQL) |
 
 <h2>Packages</h2>
 
@@ -31,6 +31,6 @@ Create and ride a roller coaster
 
 | Package  | Build | Coverage | Release | Nuget |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Account.Proxy](https://github.com/msdickinson/DickinsonBros.Encryption.AES) |  |  |  |  |
-| [Coaster.Proxy](https://github.com/msdickinson/DickinsonBros.DataTable)   |  |  |  |  |
+| [Account.Proxy](https://github.com/msdickinson/RollerCoaster.Account.Proxy) |  |  |  |  |
+| [Coaster.Proxy](https://github.com/msdickinson/RollerCoaster.Coaster.Proxy)   |  |  |  |  |
 | [Game](https://github.com/msdickinson/RollerCoaster.Game)   |  |  |  |  |
