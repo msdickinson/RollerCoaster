@@ -31,6 +31,6 @@ Create and ride a roller coaster
 
 | Package  | Build | Coverage | Release | Nuget |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Account.Proxy](https://github.com/msdickinson/RollerCoaster.Account.Proxy) |  |  |  |  |
+| [Account.Proxy](https://github.com/msdickinson/RollerCoaster.Account.Proxy) |<a href="https://dev.azure.com/marksamdickinson/rollercoaster/_build/latest?definitionId=78&amp;branchName=master"> <img alt="Azure DevOps builds (branch)" src="https://img.shields.io/azure-devops/build/marksamdickinson/rollercoaster/78/master"> </a>| <a href="https://dev.azure.com/marksamdickinson/rollercoaster/_build/latest?definitionId=78&amp;branchName=master"> <img alt="Azure DevOps coverage (branch)" src="https://img.shields.io/azure-devops/coverage/marksamdickinson/rollercoaster/78/master"> </a>|<a href="https://dev.azure.com/marksamdickinson/rollercoaster/_release?_a=releases&view=mine&definitionId=1"> <img alt="Azure DevOps releases" src="https://img.shields.io/azure-devops/release/marksamdickinson/b03f3ce8-c619-424d-a382-2fe249467527/1/1"> </a>|<a href="https://www.nuget.org/packages/RollerCoaster.Account.Proxy/"><img src="https://img.shields.io/nuget/v/RollerCoaster.Account.Proxy"></a>|
 | [Coaster.Proxy](https://github.com/msdickinson/RollerCoaster.Coaster.Proxy)   |  |  |  |  |
 | [Game](https://github.com/msdickinson/RollerCoaster.Game)   |  |  |  |  |
